@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/bot_vk.iml" filepath="$PROJECT_DIR$/.idea/bot_vk.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/BotVk.iml" filepath="$PROJECT_DIR$/.idea/BotVk.iml" />
+>>>>>>> efb888b (add_change)
     </modules>
   </component>
 </project>
